@@ -1,5 +1,5 @@
 # UW-Research-Project-Suvival-Analysis-on-Patent-Data
-  This is my research project at University of Waterloo, under the project topic of "Patent Technological Diversity and Examination Outcomes in China"
+  This is my research project at University of Waterloo, under the project topic of survival analysis for patent data.
   
   Code includes data cleaning, imputation, data visurilization and statistical modelling using RStudio. 
   
